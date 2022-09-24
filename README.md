@@ -25,3 +25,7 @@
 ### 9) Qual a diferença entre git e github? 
 
 - O Git é um sistema de controle de versão distribuído, que permite que equipes de desenvolvimento trabalhem em conjunto em um mesmo projeto, sem que haja conflitos entre as versões. Já o Github é uma plataforma de hospedagem de repositórios Git.
+
+### 10) Quais os dois verbos http que podemos utiizar para realizar um update? Explique a diferença entre eles. 
+
+- Os dois verbos http que podemos utilizar para realizar um update são: PUT e PATCH. O PUT é utilizado para atualizar um recurso inteiro, e o PATCH é utilizado para atualizar apenas uma parte do recurso.
