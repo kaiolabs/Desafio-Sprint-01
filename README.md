@@ -32,3 +32,11 @@
 ### 11) Qual o status code que pode ser usado na criação de um novo usuário? 
 
 - O status code que pode ser usado na criação de um novo usuário é o 201.
+
+### 12) Quais são os três status code que podem ser utilizados para realizar o delete? 
+
+- Os três status code que podem ser utilizados para realizar o delete são: 200, 202 e 204.
+
+- O código de status 202 (Accepted) se a ação provavelmente teve sucesso, porém ainda não foi realizada.
+- O código de status 204 (No Content) se a ação foi realizada e nenhuma outra informação deve ser fornecida.
+- O código de status 200 (OK) se a ação foi realizada e a mensagem de resposta inclui uma representação descrevendo o status.
