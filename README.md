@@ -40,3 +40,10 @@
 - O código de status 202 (Accepted) se a ação provavelmente teve sucesso, porém ainda não foi realizada.
 - O código de status 204 (No Content) se a ação foi realizada e nenhuma outra informação deve ser fornecida.
 - O código de status 200 (OK) se a ação foi realizada e a mensagem de resposta inclui uma representação descrevendo o status.
+### 13) Exemplifique para que serve os metódos http 1xx, 2xx, 3xx, 4xx e 5xx. De uma forma macro (geral)! 
+
+- O código de status 1xx (Informational) indica que a requisição foi recebida e o processo está continuando.
+- O código de status 2xx (Successful) indica que a requisição foi aceita.
+- O código de status 3xx (Redirection) indica que o cliente precisa tomar ações adicionais para completar a requisição.
+- O código de status 4xx (Client Error) indica que a requisição contém sintaxe incorreta ou não pode ser atendida.
+- O código de status 5xx (Server Error) indica que o servidor falhou em processar uma requisição válida.
