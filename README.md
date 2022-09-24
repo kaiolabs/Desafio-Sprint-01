@@ -7,3 +7,6 @@
 # 3) O que é Git? 
 
 - Git é um sistema de controle de versão distribuído, que permite que equipes de desenvolvimento trabalhem em conjunto em um mesmo projeto, sem que haja conflitos entre as versões.
+# 4) O que é um scrum Product Owner? 
+
+- O Product Owner é o responsável por definir o que deve ser feito no projeto, e é ele quem prioriza o que deve ser feito primeiro, segundo, terceiro, etc. Além disso, ele é o representante do cliente, e é ele quem decide se o que foi feito está de acordo com o que o cliente queria.
