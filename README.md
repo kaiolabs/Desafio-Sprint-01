@@ -60,3 +60,6 @@
 ### 17) Quais ferramentas podemos utilizar para criação de novos apps usando Flutter?
 
 - As ferramentas que podemos utilizar para criação de novos apps usando Flutter são: Android Studio, Visual Studio Code, IntelliJ IDEA, e o próprio terminal.
+### 18) Qual a diferença entre uma variavel final e uma variavel var?
+
+- A variável final pode ser inicializada apenas uma vez, e não pode ser alterada. Já a variável var pode ser inicializada várias vezes, e pode ser alterada. Aleém disso, a variável final é tipada, e a variável var não é tipada.
