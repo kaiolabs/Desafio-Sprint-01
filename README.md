@@ -47,3 +47,7 @@
 - O código de status 3xx (Redirection) indica que o cliente precisa tomar ações adicionais para completar a requisição.
 - O código de status 4xx (Client Error) indica que a requisição contém sintaxe incorreta ou não pode ser atendida.
 - O código de status 5xx (Server Error) indica que o servidor falhou em processar uma requisição válida.
+
+### 14) O que é a linguagem de programação Dart?
+
+- Dart é uma linguagem de programação orientada a objetos, que foi criada pela Google, e que é utilizada para desenvolvimento de aplicativos móveis, desktop e web.
