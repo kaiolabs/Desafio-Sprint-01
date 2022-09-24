@@ -54,7 +54,9 @@
 ### 15) O que é o Flutter?
 
 - Flutter é um framework de desenvolvimento de aplicativos móveis, desktop e web, que foi criado pela Google, e que utiliza a linguagem de programação Dart.
-
 ### 16) Como inicio um novo projeto com Flutter?
 
 - Para iniciar um novo projeto com Flutter, basta executar o comando: flutter create nome_do_projeto. Caso você use o visual studio code, você pode aperta Ctrl + Shift + P e digitar o comando: Flutter: New Project. Assim o visual studio code irá criar um novo projeto para você.  
+### 17) Quais ferramentas podemos utilizar para criação de novos apps usando Flutter?
+
+- As ferramentas que podemos utilizar para criação de novos apps usando Flutter são: Android Studio, Visual Studio Code, IntelliJ IDEA, e o próprio terminal.
