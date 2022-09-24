@@ -10,3 +10,6 @@
 # 4) O que é um scrum Product Owner? 
 
 - O Product Owner é o responsável por definir o que deve ser feito no projeto, e é ele quem prioriza o que deve ser feito primeiro, segundo, terceiro, etc. Além disso, ele é o representante do cliente, e é ele quem decide se o que foi feito está de acordo com o que o cliente queria.
+# 5) Qual o comando para criação de um novo repositório no Git? 
+
+- O comando para criação de um novo repositório no Git é: git init
