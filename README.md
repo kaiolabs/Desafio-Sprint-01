@@ -72,3 +72,7 @@
 ### 21) Qual a finalidade dos métodos initState e dispose?
 
 - O método initState é utilizado para inicializar o estado do widget. Já o método dispose é utilizado para limpar os recursos utilizados pelo widget. Por exemplo, se você tem um widget que utiliza um timer, você pode utilizar o método dispose para limpar o timer. É o initState para inicializar o timer.
+
+### 22) Conta pra gente como foi sua experiência na Sprint#01 do programa de bolsa @Flutter-set.22 e quais suas expectativas a partir de agora:
+
+- A minha experiência na Sprint#01 foi muito boa. Eu aprendi muitas coisas novas, e pude praticar o que eu já sabia. Eu espero que a partir de agora eu possa aprender ainda mais, e que eu possa ajudar os outros com os meus conhecimentos que adquiri ao longo da sprint. Além disso, espero por em prática o que eu aprendi nos desafios das proximas sprints.
