@@ -51,3 +51,6 @@
 ### 14) O que é a linguagem de programação Dart?
 
 - Dart é uma linguagem de programação orientada a objetos, que foi criada pela Google, e que é utilizada para desenvolvimento de aplicativos móveis, desktop e web.
+### 15) O que é o Flutter?
+
+- Flutter é um framework de desenvolvimento de aplicativos móveis, desktop e web, que foi criado pela Google, e que utiliza a linguagem de programação Dart.
