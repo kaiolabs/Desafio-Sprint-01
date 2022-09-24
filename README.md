@@ -63,3 +63,7 @@
 ### 18) Qual a diferença entre uma variavel final e uma variavel var?
 
 - A variável final pode ser inicializada apenas uma vez, e não pode ser alterada. Já a variável var pode ser inicializada várias vezes, e pode ser alterada. Aleém disso, a variável final é tipada, e a variável var não é tipada.
+### 19) Qual a diferença entre um Statefull e Stateless widget?
+
+- O Statefull widget é um widget que pode ser alterado, e o Stateless widget é um widget que não pode ser alterado. Por exemplo, um Statefull widget pode ser um botão que ao ser clicado, muda a cor do botão. Já um Stateless widget pode ser um texto que não pode ser alterado.
+
