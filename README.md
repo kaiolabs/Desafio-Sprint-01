@@ -29,3 +29,6 @@
 ### 10) Quais os dois verbos http que podemos utiizar para realizar um update? Explique a diferença entre eles. 
 
 - Os dois verbos http que podemos utilizar para realizar um update são: PUT e PATCH. O PUT é utilizado para atualizar um recurso inteiro, e o PATCH é utilizado para atualizar apenas uma parte do recurso.
+### 11) Qual o status code que pode ser usado na criação de um novo usuário? 
+
+- O status code que pode ser usado na criação de um novo usuário é o 201.
