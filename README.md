@@ -69,3 +69,6 @@
 ### 20) Para que serve o conceito de gerenciamento de estado e como ele pode ser aplicado na prática?
 
 - O conceito de gerenciamento de estado serve para que o estado de um widget possa ser alterado. Por exemplo, se você tem um botão que ao ser clicado, muda a cor do botão, você pode utilizar o gerenciamento de estado para que o estado do botão possa ser alterado. Para isso, você pode utilizar o conceito de Statefull widget, que é um widget que pode ser alterado.
+### 21) Qual a finalidade dos métodos initState e dispose?
+
+- O método initState é utilizado para inicializar o estado do widget. Já o método dispose é utilizado para limpar os recursos utilizados pelo widget. Por exemplo, se você tem um widget que utiliza um timer, você pode utilizar o método dispose para limpar o timer. É o initState para inicializar o timer.
