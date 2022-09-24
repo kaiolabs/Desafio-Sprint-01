@@ -12,8 +12,10 @@
 - O Product Owner é o responsável por definir o que deve ser feito no projeto, e é ele quem prioriza o que deve ser feito primeiro, segundo, terceiro, etc. Além disso, ele é o representante do cliente, e é ele quem decide se o que foi feito está de acordo com o que o cliente queria.
 # 5) Qual o comando para criação de um novo repositório no Git? 
 
-- O comando para criação de um novo repositório no Git é: git init
-
+- O comando para criação de um novo repositório no Git é: git init.
 # 6) Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando? 
 
-- O comando para adicionar as mudanças ao Index é: git add
+- O comando para adicionar as mudanças ao Index é: git add.
+# 7) O que é a Branch master e para que serve? 
+
+- A Branch master é a branch principal do repositório, e serve para armazenar a versão mais atualizada do projeto.
